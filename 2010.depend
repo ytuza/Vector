@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1476974852 source:c:\users\alumno-d\desktop\2010\main.cpp
+	<iostream>
+	"vector.h"
+
+1476974367 c:\users\alumno-d\desktop\2010\point.h
+
+1476974868 source:c:\users\alumno-d\desktop\2010\point.cpp
+	<iostream>
+	"point.h"
+
+1476974749 source:c:\users\alumno-d\desktop\2010\vector.cpp
+	<iostream>
+	"vector.h"
+
+1476974710 c:\users\alumno-d\desktop\2010\vector.h
+	"point.h"
+
+1477011244 source:c:\users\estela\documents\ciencia de la comutacion 1\point,vector\point.cpp
+	<iostream>
+	"point.h"
+
+1477011244 c:\users\estela\documents\ciencia de la comutacion 1\point,vector\point.h
+
+1477043802 source:c:\users\estela\documents\ciencia de la comutacion 1\point,vector\pointarray.cpp
+	<iostream>
+	"PointArray.h"
+
+1477045226 source:c:\users\estela\documents\ciencia de la comutacion 1\point,vector\vector.cpp
+	<iostream>
+	"vector.h"
+	<math.h>
+
+1477045226 c:\users\estela\documents\ciencia de la comutacion 1\point,vector\vector.h
+	"point.h"
+
+1477045226 source:c:\users\estela\documents\ciencia de la comutacion 1\point,vector\main.cpp
+	<iostream>
+	"VectorArray.h"
+
+1477043762 c:\users\estela\documents\ciencia de la comutacion 1\point,vector\pointarray.h
+	"point.h"
+
+1477044823 c:\users\estela\documents\ciencia de la comutacion 1\point,vector\vectorarray.h
+	"vector.h"
+
+1477044783 source:c:\users\estela\documents\ciencia de la comutacion 1\point,vector\vetorarray.cpp
+	<iostream>
+	"VectorArray.h"
+
+1477579354 source:c:\users\alumno-d\desktop\point,vector\main.cpp
+	<iostream>
+	"VectorArray.h"
+
+1477020276 c:\users\alumno-d\desktop\point,vector\vectorarray.h
+	"vector.h"
+
+1477576677 c:\users\alumno-d\desktop\point,vector\vector.h
+	"PointArray.h"
+
+1477020270 c:\users\alumno-d\desktop\point,vector\point.h
+
+1477020270 source:c:\users\alumno-d\desktop\point,vector\point.cpp
+	<iostream>
+	"point.h"
+
+1477020270 source:c:\users\alumno-d\desktop\point,vector\vector.cpp
+	<iostream>
+	"vector.h"
+	<math.h>
+
+1477578933 source:c:\users\alumno-d\desktop\point,vector\vetorarray.cpp
+	<iostream>
+	"VectorArray.h"
+
+1477579472 c:\users\alumno-d\desktop\point,vector\pointarray.h
+	"point.h"
+
+1477579315 source:c:\users\alumno-d\desktop\point,vector\pointarray.cpp
+	<iostream>
+	"PointArray.h"
+
